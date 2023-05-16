@@ -28,6 +28,7 @@ import org.slf4j.Logger;
 @Mod(Amazoncraft.MOD_ID)
 public class Amazoncraft{
     // Define mod id in a common place for everything to reference
+    //test
     public static final String MOD_ID = "amazoncraft";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
